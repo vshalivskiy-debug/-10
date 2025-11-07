@@ -1,0 +1,4 @@
+﻿  завдання 2.cpp
+D:\Desktop\студент\ООП\на 30 10 25\завдання 2\завдання 2\завдання 2.cpp(16,44): warning C4566: character represented by universal-character-name '\u2264' cannot be represented in the current code page (1251)
+D:\Desktop\студент\ООП\на 30 10 25\завдання 2\завдання 2\завдання 2.cpp(80,13): warning C4566: character represented by universal-character-name '\u222B' cannot be represented in the current code page (1251)
+  завдання 2.vcxproj -> D:\Desktop\студент\ООП\на 30 10 25\завдання 2\x64\Debug\завдання 2.exe
